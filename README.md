@@ -1,1 +1,1 @@
-# Predict-Loan-Approval-Status
+# Predict Loan Approval Status
